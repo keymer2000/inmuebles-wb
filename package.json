@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/keymer2000/inmuebles-wb/issues"
   },
-  "homepage": "https://github.com/keymer2000/inmuebles-wb#readme"
+  "homepage": "https://github.com/keymer2000/inmuebles-wb#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
 }
